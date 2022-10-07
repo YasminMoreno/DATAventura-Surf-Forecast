@@ -23,7 +23,7 @@ Realizar el proyecto final del Bootcamp utilizando todo lo aprendido durante est
 8. Creamos los grupos por niveles y valoraciones de las olas del día y hora para poder surfear. También pasamos la columna de dirección del viento en grados azimutales a coordenadas en letras.
 9. Cargamos el csv directamente en Tableu ya que de momento solo tenemos una tabla. Cuando creemos una tabla por cada playa lo pasaremos a SQL primero.
 10. Realizamos diferentes gráficos con Tableau. Gráficos interactivos y gráficos con nuevos iconos personalizados descargados desde la web flaticon y adjuntados a la carpeta de formas de nuestro directorio de Tableau para poderlos utilizar.
-11. Realizamos la ppt final en Keynote.
+11. Por último hacemos la ppt final en Keynote.
 
 ## Entregables
 
